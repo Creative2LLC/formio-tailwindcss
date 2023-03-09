@@ -1,6 +1,6 @@
 import templates from './templates';
 
 export default {
-  framework: 'bootstrap3',
+  framework: 'tailwindcss',
   templates,
 };

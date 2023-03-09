@@ -1,5 +1,5 @@
-import bootstrap3 from './bootstrap3';
+import tailwindcss from './tailwindcss';
 
 export default {
-  bootstrap3,
+  tailwindcss,
 };

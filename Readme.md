@@ -1,20 +1,20 @@
-# Form.io Bootstrap 3 Templates
+# Form.io Tailwind CSS Templates
 
-This repository will change the rendering of forms in formio.js so that it uses html and classes compatible with the [Bootstrap 3](https://getbootstrap.com/docs/3.3/) framework. 
+This repository will change the rendering of forms in formio.js so that it uses html and classes compatible with the [TailwindCSS](https://tailwindcss.com) framework. 
 
 ## Usage
 
 ```javascript
-import bootstrap3 from '@formio/bootstrap3';
+import tailwindcss from '@formio/tailwindcss';
 import { Formio } from 'formiojs';
 
-Formio.use(bootstrap3);
+Formio.use(tailwindcss);
 ```
 ## Script
 
 
 ```javascript
-Formio.Templates.framework = "bootstrap3"
+Formio.Templates.framework = "tailwindcss"
 ```
 If icon is not show
 

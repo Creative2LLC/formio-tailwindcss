@@ -3,7 +3,7 @@
     "target": "es5",
     "module": "commonjs",
     "preserveConstEnums": true,
-    "outDir": "lib",
+    "outDir": "libr",
     "noImplicitAny": false,
     "sourceMap": false,
     "declaration": true,

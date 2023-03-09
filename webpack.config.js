@@ -5,6 +5,7 @@ module.exports = {
   output: {
     library: 'tailwindcss',
     libraryTarget: 'umd',
+    libraryExport: 'default',
     path: path.resolve(__dirname, 'dist'),
     filename: 'tailwindcss.js',
   },
